@@ -4,3 +4,4 @@ __pycache__
 venv/
 test.db
 .DS_Store.DS_Store
+.DS_Store
